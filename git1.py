@@ -7,3 +7,4 @@ c = 'jeszcze jeden fragment'
 
 d = "koniec"
 
+test = "kolejne informacje"
